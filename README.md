@@ -24,3 +24,13 @@ I’m passionate about turning raw data into insights through clean dashboards, 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-elhousany-25249a346/)
 - 📧 Email: omarelhousany7@gmail.com
+
+---
+
+## 📈 GitHub Activity Stats
+
+![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omar8113&theme=github-compact)
+
+
+
+
